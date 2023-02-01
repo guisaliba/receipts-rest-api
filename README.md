@@ -30,7 +30,7 @@ Instale as dependências do projeto com o comando:
 
     <pre>npm run dev</pre>
 
-A API pode ser acessada em [`localhost:3030](http://localhost:3030).
+A API pode ser acessada em [http://localhost:3030](http://localhost:3030).
 <br><br>
 
 
