@@ -30,7 +30,7 @@ Instale as dependências do projeto com o comando:
 
     <pre>npm run dev</pre>
 
-A API pode ser acessada em [http://localhost:3030](http://localhost:3030).
+Caso seu terminal mostre a mensagem `🔥 Server up and running at localhost:3030` significa que a aplicação foi executada com sucesso e você já API pode acessar a API em [http://localhost:3030](http://localhost:3030).
 <br><br>
 
 
