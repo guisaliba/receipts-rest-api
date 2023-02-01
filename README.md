@@ -30,7 +30,7 @@ Instale as dependências do projeto com o comando:
 
     <pre>npm run dev</pre>
 
-Caso seu terminal mostre a mensagem `🔥 Server up and running at localhost:3030` significa que a aplicação foi executada com sucesso na porta 3030.Lembre-se que somente os endpoints ligados à requisições do tipo `GET` podem ser visualizadas pelo browser.
+Caso seu terminal mostre a mensagem `🔥 Server up and running at localhost:3030` significa que a aplicação foi executada com sucesso na porta 3030. Lembre-se que somente os endpoints ligados à requisições do tipo `GET` podem ser visualizadas pelo browser.
 <br><br>
 
 
@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Essa é uma API escrita com os conceitos arquiteturais REST, ela realiza chamadas HTTP em diferentes rotas utilizando o framework Express do Node. Cada rota e método
 HTTP é responsavel por realizar uma query diferente através do PrismaClient. O PrismaClient é a instância que se conecta ao banco de dados através do ORM Prisma e
-realiza diferentes operações SQL através dos Models definidos no schema do Prisma (prisma.schema). Essa API pode, por exemplo, criar um novo autor (author) e uma nova nota fiscal (receipt) no nome desse autor, e registrá-los no banco de dados através do Prisma. É possível ver quais relações authors e receipts possuem nos Models definidos no schema do Prisma. O Client API utilizado nesse projeto para desenvolvimento e debugging foi o Insomnia, fica a critério do usuário escolher seu API Client de preferência como por exemplo, o Postman.
+realiza diferentes operações SQL através dos Models definidos no schema do Prisma (prisma.schema). <br> Essa API pode, por exemplo, criar um novo autor (author) e uma nova nota fiscal (receipt) no nome desse autor, e registrá-los no banco de dados através do Prisma. É possível ver quais relações authors e receipts possuem nos Models definidos no schema do Prisma. O Client API utilizado nesse projeto para desenvolvimento e debugging foi o Insomnia, fica a critério do usuário escolher seu API Client de preferência como por exemplo, o Postman.
 
 ## :memo: Licença
 
