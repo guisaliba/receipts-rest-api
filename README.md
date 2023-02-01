@@ -1,7 +1,7 @@
 <h1 align="center"> Receips REST API </h1>
 
 <p align="center">
-Esse projeto foi desenvolvido com propósitos pessoais de estudo e aprofundamento nas tecnologias: Node.js, TypeScript, PrismaORM e SQLite.
+Esse projeto foi desenvolvido com propósitos pessoais de estudo e aprofundamento nas tecnologias: Node.js, TypeScript, Express, PrismaORM e SQLite.
 Todo o conteúdo disponível nesse repositório foi feito com base nos conteúdos disponíveis nas documentações das tecnologias utilizadas.
 </p>
 
@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/) 19.5.0
 - [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/)
 - [Prisma](https://www.prisma.io/)
 - [Insomnia](https://insomnia.rest/)
 - [Vite](https://vitejs.dev/)
