@@ -21,6 +21,19 @@ Todo o conteúdo disponível nesse repositório foi feito com base nos conteúdo
 
 ## 💿 Executando o projeto
 
+Instale as dependências do projeto com o comando:
+
+<pre> npm install </pre>
+
+
+- Execute o comando `npm run dev`
+
+    <pre>npm run dev</pre>
+
+A API pode ser acessada em [`localhost:3030](http://localhost:3030).
+<br><br>
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
