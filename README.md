@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/) 19.5.0
 - [TypeScript](https://www.typescriptlang.org/)
 - [Prisma](https://www.prisma.io/)
-- [Insomnia(https://insomnia.rest/)
+- [Insomnia](https://insomnia.rest/)
 - [Vite](https://vitejs.dev/)
 
 ## 💻 Projeto
