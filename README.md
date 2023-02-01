@@ -1,6 +1,3 @@
-# receipts-rest-api
-# Receipts REST API
-
 <h1 align="center"> Receips REST API </h1>
 
 <p align="center">
