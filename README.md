@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Essa é uma API escrita com os conceitos arquiteturais REST, ela realiza chamadas HTTP em diferentes rotas utilizando o framework Express do Node. Cada rota e método
 HTTP é responsavel por realizar uma query diferente através do PrismaClient. O PrismaClient é a instância que se conecta ao banco de dados através do ORM Prisma e
-realiza diferentes operações SQL através dos Models definidos no schema do Prisma. <br><br> Essa API pode, por exemplo, criar um novo autor (author) e uma nova nota fiscal (receipt) no nome desse autor, e registrá-los no banco de dados através do Prisma. É possível ver quais relações authors e receipts possuem nos Models definidos no schema do Prisma. <br><br> O Client API utilizado nesse projeto para desenvolvimento e debugging foi o Insomnia, fica a critério do usuário escolher seu API Client de preferência como por exemplo, o Postman.
+realiza diferentes operações SQL através dos Models definidos no schema do Prisma. <br><br> Essa API pode, por exemplo, criar um novo autor (author) e uma nova nota fiscal (receipt) no nome desse autor, e registrá-los no banco de dados através do Prisma. É possível ver quais relações authors e receipts possuem nos Models definidos no schema do Prisma. <br><br> O Client API utilizado nesse projeto para desenvolvimento e debugging foi o Insomnia, fica a critério do usuário escolher seu API Client de preferência para realizar requisições HTTP, como por exemplo, o Postman.
 
 ## :memo: Licença
 
