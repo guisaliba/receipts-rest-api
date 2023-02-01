@@ -6,9 +6,11 @@ Todo o conteúdo disponível nesse repositório foi feito com base nos conteúdo
 </p>
 
 <p align="center">
+<a href="#executando-o-projeto">Executar projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  
 </p>
 
 <p align="center">
@@ -16,6 +18,8 @@ Todo o conteúdo disponível nesse repositório foi feito com base nos conteúdo
 </p>
 
 <br>
+
+## 💿 Executando o projeto
 
 ## 🚀 Tecnologias
 
