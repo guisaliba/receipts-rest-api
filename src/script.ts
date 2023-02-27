@@ -28,7 +28,7 @@ app.get('/receipts', async (req: any, res: any) => {
   }
 })
 
-app.get('/receipt/:id', async (req: any, res: any) => {
+app.get('/receipts/:id', async (req: any, res: any) => {
   const { id } = req.params
   const receipt = await prisma.receipt.findUnique({
     where: { id: Number(id) },
@@ -68,7 +68,7 @@ app.post('/receipt', async (req: any, res: any) => {
   }
 })
 
-app.put('/receipt/publish/:id', async (req: any, res: any) => {
+app.put('/receipts/publish/:id', async (req: any, res: any) => {
   const { id } = req.params
   const receipt = await prisma.receipt.update({
     where: { id: Number(id) },
@@ -81,7 +81,7 @@ app.put('/receipt/publish/:id', async (req: any, res: any) => {
   }
 })
 
-app.put('/receipt/unpublish/:id', async (req: any, res: any) => {
+app.put('/receipts/unpublish/:id', async (req: any, res: any) => {
   const { id } = req.params
   const receipt = await prisma.receipt.update({
     where: { id: Number(id) },
@@ -94,7 +94,7 @@ app.put('/receipt/unpublish/:id', async (req: any, res: any) => {
   }
 })
 
-app.delete('/receipt/:id', async (req: any, res: any) => {
+app.delete('/receipts/:id', async (req: any, res: any) => {
   const { id } = req.params
   const receipt = await prisma.receipt.delete({
     where: { id: Number(id) },
